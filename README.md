@@ -135,7 +135,7 @@ A: Yes, you can customize the text overlay for each image by clicking the "Custo
 
 A: Yes, you can save your playlist by clicking the "Save Playlist" button and choosing a location to save the playlist file. To load a saved playlist, click the "Load Playlist" button and browse for the playlist file you want to load.
 
-If you have any other questions or need further assistance, please contact our support team.
+If you have any other questions or need further assistance, please contact me @Guen12003.
 
 ---
 
