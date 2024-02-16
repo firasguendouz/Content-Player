@@ -139,4 +139,3 @@ If you have any other questions or need further assistance, please contact our s
 
 ---
 
-Thank you for choosing the Multimedia Content Creation Application. We hope you enjoy creating visually engaging 60-second loops with ease!
